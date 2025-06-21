@@ -71,7 +71,7 @@ const TaskManager = () => {
   };
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+    <div className="bg-gray-100 text-gray-900 dark:bg-gray-800 dark:text-gray-100 ... transition-colors duration-300">
       <h2 className="text-2xl font-bold mb-6">Task Manager</h2>
 
       {/* Task input form */}
